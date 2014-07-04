@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "google-spreadsheet": "^0.2.8",
+    "coffee-script": "^1.7.1",
+    "edit-google-spreadsheet": "^0.2.6",
+    "numeral": "^1.5.3",
+    "request": "^2.36.0",
+    "async": "^0.9.0",
+    "aws-sdk": "^2.0.4",
+    "getenv": "^0.3.0",
+    "tmp": "0.0.23",
+    "youtube-api": "^0.2.2",
+    "cheerio": "^0.17.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
